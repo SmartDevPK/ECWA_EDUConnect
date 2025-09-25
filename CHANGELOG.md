@@ -18,3 +18,5 @@ Progress:
 - Installed `pytest` inside the virtual environment.
 - MYSQL database connection login in db.py for ECWA_EDUConnect.
 - Error handling and configuration setup for database connections
+
+2025-09-25
